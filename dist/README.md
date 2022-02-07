@@ -1,8 +1,8 @@
 
-  # Project AmazeBalls
-  ![License](<https://img.shields.io/badge/License-Apache 2.0-blue.svg>)
+  # Awesome
+  ![License](<https://img.shields.io/badge/License-The MIT License-blue.svg>)
   ## Description
-  Its amazing
+  It  is an awesome project
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -17,15 +17,15 @@
   npm install
   ```
   ## Usage
-  Usage info here
+  Usage info will display here
     
   ## License
-  Licensed under Apache 2.0
+  Licensed under The MIT License
   ## Contributing
-  guidelines appear here
+  Contribution will appear here
   ## Tests
-  test instructions
+  Test instruction
   ## Questions
-  Contact me for any questions. You can send me an email at email@gmail.com.
+  Contact me for any questions. You can send me an email at email@gail.com.
     
-  Link to my GitHub: github.com/Cole
+  Link to my GitHub: github.com/ColeVibes

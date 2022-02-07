@@ -12,7 +12,7 @@ npm install
 ## Usage
 After installing the necessary dependencies, the application will be invoked from the command line by entering: `node index`
 The video walkthrough below will give you all the nessecary tools to use this application.
-
+https://drive.google.com/file/d/1bX5fLj8Iwe5AGTw2G09zPcE77uxwNdBf/view 
 
 ## Questions
 Feel free to reach out to me for any questions or comments. <br/>
